@@ -4,7 +4,9 @@ Instead of setting up a burp certificate on Android manually which takes some ti
 
 # Installation
 ```
-  git clone 
+  git clone https://github.com/TheSerialiZator/BurpAndroidOneLiner
+  
+  cd BurpAndroidOneLiner
   
   chmod +x automate.sh
   
