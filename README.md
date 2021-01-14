@@ -7,6 +7,11 @@ Used Genymotion & Android V10.
 
 # Requirements
 
+  Burp:
+  
+    https://portswigger.net/burp/releases
+
+
   frida-server: 
   
     https://github.com/frida/frida/releases
