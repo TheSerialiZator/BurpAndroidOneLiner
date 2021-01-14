@@ -16,7 +16,7 @@ Used Genymotion & Android V10.
   
     https://github.com/frida/frida/releases
   
-  Frida: 
+  Frida tools: 
   
     pip install frida-tools
  
