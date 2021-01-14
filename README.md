@@ -10,7 +10,15 @@ Used Genymotion & Android V10.
   frida-server: https://github.com/frida/frida/releases
   
   Frida: pip install frida-tools
+ 
+  Install open ssl for Mac:
+    
+    brew install openssl
   
+  Install open ssl for Linux:
+  
+    sudo apt-get install libssl-dev
+
 
 # Installation 🦄
 ```
